@@ -103,6 +103,7 @@ if verbose:
 ## Compute ##
 #############
 # TODO: Clean the following chunk of code
+# TODO: Sometimes github works against you
 eye = np.eye(2**n, 2**n) # Define identity to simplify code below
 dataset = np.zeros([m, 2])
 true_prob = np.zeros([m, 2])

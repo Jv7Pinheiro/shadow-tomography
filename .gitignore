@@ -2,3 +2,4 @@ poetry.toml
 .vscode/
 .venv/
 .venv
+.DS_Store
